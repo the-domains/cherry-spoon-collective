@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Cherry Spoon Collective]]></title>
         <description><![CDATA[Cherry Spoon Collective]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cherry-spoon-collective/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 05:18:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 05:19:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cherry-spoon-collective/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2013 logo by Jacqueline Johnston]]></title>
+            <description><![CDATA[<article><h1>2013 logo by Jacqueline Johnston</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee04f42b6741ab680fcfd62520d2e5603e1600a2.png"></article>]]></description>
+            <link>https://thegrid.ai/cherry-spoon-collective/2013-logo-by-jacqueline-johnston/index.html</link>
+            <guid isPermaLink="false">28ef8055-9116-4bd5-b89c-2a0dbe237a46</guid>
+            <pubDate>Thu, 18 Feb 2016 05:18:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chalkwork from the dog, 2015]]></title>
             <description><![CDATA[<article><h1>Chalkwork from the dog, 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/364ed755f5ef75080e29b0329379c245661e0685.png"></article>]]></description>
-            <link>undefinedchalkwork-from-the-dog-2015/index.html</link>
+            <link>https://thegrid.ai/cherry-spoon-collective/chalkwork-from-the-dog-2015/index.html</link>
             <guid isPermaLink="false">6cb2022d-7d07-4fa4-ae73-512643b4598b</guid>
             <pubDate>Thu, 18 Feb 2016 05:18:51 GMT</pubDate>
         </item>
