@@ -1,3 +1,7 @@
+name: Cherry Spoon Collective
+favicon: null
+layout_spectrum: 0.74622
+typography_spectrum: 0.08297873
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.08297873
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.897326
-  brandStrength: 0.675702
-  lightness: 0.7862477
   brandColors:
     - '#15161F'
     - '#B38904'
     - '#3988B4'
     - '#A390A4'
     - '#164B6E'
-  rhythmicContrast: 0.8293752
-layout_spectrum: 1
-name: Cherry Spoon Collective
+  brandStrength: 0.75
+  lightness: 0.125
+  saturation: 0.5
+  rhythmicContrast: 0.25
+purpose: []
