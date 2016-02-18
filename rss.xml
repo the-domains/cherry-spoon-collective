@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cherry Spoon Collective]]></title>
+        <description><![CDATA[Cherry Spoon Collective]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Feb 2016 05:18:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chalkwork from the dog, 2015]]></title>
+            <description><![CDATA[<article><h1>Chalkwork from the dog, 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/364ed755f5ef75080e29b0329379c245661e0685.png"></article>]]></description>
+            <link>undefinedchalkwork-from-the-dog-2015/index.html</link>
+            <guid isPermaLink="false">6cb2022d-7d07-4fa4-ae73-512643b4598b</guid>
+            <pubDate>Thu, 18 Feb 2016 05:18:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
