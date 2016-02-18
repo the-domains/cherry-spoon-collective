@@ -1,14 +1,26 @@
-layout_spectrum: 0.6207037
-typography_spectrum: 0.7862996
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.897326
-  lightness: 0.7862477
   brandStrength: 0.675702
-  rhythmicContrast: 0.8293752
+  lightness: 0.7862477
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#15161F'
+    - '#B38904'
+    - '#3988B4'
+    - '#A390A4'
+    - '#164B6E'
+  rhythmicContrast: 0.8293752
+typography_spectrum: 0.08297873
+layout_spectrum: 0.6207037
 name: Cherry Spoon Collective
